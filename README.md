@@ -9,8 +9,6 @@ ini样式:
 
 https://raw.githubusercontent.com/satrom/Clash/master/cocolyb.ini
 
-SSR订阅（维护更新中…）:
-https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/DAYSub.txt
 
 
 Clash_API转换链接:
