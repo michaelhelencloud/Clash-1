@@ -7,7 +7,7 @@ https://www.bejson.com/enc/urlencode/
 
 ini样式: 
 
-https://raw.githubusercontent.com/satrom/Clash/master/cocolyb.ini
+https://raw.githubusercontent.com/satrom/Clash/master/lette.ini
 
 
 
