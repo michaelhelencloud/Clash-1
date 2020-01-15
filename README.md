@@ -21,10 +21,4 @@ Clash_API转换链接:
 
 4.4号接口转单节点1: https://gfwsb.114514.best/sub2clash?sublink=编码后的单节点订阅
 
-5.4号接口转单节点2: https://gfwsb.114514.best/sub2clashr?sublink=编码后的单节点订阅
-
-6.4号接口转单节点3: https://gfwsb.114514.best/sub2clashr?sublink=编码后的单节点订阅 
-
-7.Z大接口: https://clashr.tgbot.co/ui/
-
-8.极天接口: https://api.qwq.cc/
+5.Z大接口: https://clashr.tgbot.co/ui/
