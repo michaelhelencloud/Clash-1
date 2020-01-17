@@ -1,4 +1,3 @@
-// https://github.com/ConnersHua/Profiles/blob/master/Surge/Ruleset/Global.list
 // 增加DOMAIN-KEYWORD,dlercloud和DOMAIN-SUFFIX,dler.cloud
 
 # (DNS Cache Pollution Protection)

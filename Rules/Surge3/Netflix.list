@@ -1,6 +1,3 @@
-// https://github.com/lhie1/Rules/blob/master/Surge3/Media/netflix.list
-// https://github.com/ConnersHua/Profiles/blob/master/Surge/Ruleset/Media/Netflix.list
-
 // Netflix
 USER-AGENT,Argo*
 DOMAIN-SUFFIX,netflix.com

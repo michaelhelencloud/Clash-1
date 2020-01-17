@@ -1,5 +1,3 @@
-// https://github.com/lhie1/Rules/blob/master/Surge3/Media/bbc.list
-
 // BBC
 USER-AGENT,BBCiPlayer*
 DOMAIN-KEYWORD,bbcfmt

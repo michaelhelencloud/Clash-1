@@ -1,5 +1,3 @@
-// https://github.com/lhie1/Rules/blob/master/Surge3/AsianTV.list
-
 // Bilibili
 DOMAIN-KEYWORD,bilibili
 DOMAIN-SUFFIX,acg.tv
