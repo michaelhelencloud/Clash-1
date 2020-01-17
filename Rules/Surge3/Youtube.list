@@ -1,6 +1,3 @@
-// https://github.com/lhie1/Rules/blob/master/Surge3/Media/youtube.list
-// https://github.com/ConnersHua/Profiles/blob/master/Surge/Ruleset/Media/Youtube.list
-
 // Youtube
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTubeMusic*
