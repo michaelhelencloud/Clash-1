@@ -1,6 +1,3 @@
-// https://raw.githubusercontent.com/satrom/Clash/master/Rules/Surge3/Unbreak.list
-// 增加 DOMAIN-SUFFIX,anydesk.com
-
 # Unbreak
 # > General
 USER-AGENT,coffeecorp*
@@ -18,5 +15,3 @@ DOMAIN,analytics.strava.com
 # > Umeng
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
-# > Anydesk
-DOMAIN-SUFFIX,anydesk.com
