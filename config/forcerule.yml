@@ -15,9 +15,9 @@ dns:
    - 223.5.5.5
    - 180.76.76.76
    - 1.2.4.8
-   - tls://sdns.kbsml.com
-   - https://dns-api.trli.xyz/dns-query
-   - https://sdns.kbsml.com/dns-query
+#  - tls://sdns.kbsml.com
+#  - https://dns-api.trli.xyz/dns-query
+#  - https://sdns.kbsml.com/dns-query
   fallback:
    - 208.67.222.222
    - 1.0.0.1
