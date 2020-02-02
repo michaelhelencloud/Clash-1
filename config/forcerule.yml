@@ -35,7 +35,8 @@ dns:
    - { name: "Unlock", type: neteasemusic }
   Proxy Group:
    - { name: "NeteaseMusic", type: select, proxies: ["Unlock", "DIRECT"] }
-  Rule: # Unblock NeteaseMusic
+  Rule:
+# Unblock NeteaseMusic
    - DOMAIN,apm3.music.163.com,NeteaseMusic
    - DOMAIN,apm.music.163.com,NeteaseMusic
    - DOMAIN,interface3.music.163.com,NeteaseMusic
