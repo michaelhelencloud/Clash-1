@@ -1,0 +1,33 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:9090
+dns:
+  enable: true
+  ipv6: false
+  listen: 127.0.0.1:5000
+  enhanced-mode: fake-ip
+  nameserver:
+   - 119.29.29.29
+   - 114.114.114.114
+   - 223.5.5.5
+   - 180.76.76.76
+   - 1.2.4.8
+#  - tls://sdns.kbsml.com
+#  - https://dns-api.trli.xyz/dns-query
+#  - https://sdns.kbsml.com/dns-query
+  fallback:
+   - 208.67.222.222
+   - 1.0.0.1
+   - 8.8.8.8
+   - 9.9.9.9
+   - 208.67.222.222
+   - 208.67.220.220
+#  - tls://dns.rubyfish.cn:853
+#  - tls://1.0.0.1:853
+#  - tls://dns.google:853
+#  - https//dns.rubyfish.cn/dns-query
+#  - https//cloudflare-dns.com/dns-query
+#  - https//dns.google/dns-query
