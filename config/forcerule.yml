@@ -1,0 +1,27 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:9090
+dns:
+  enable: true
+  ipv6: false
+  listen: 127.0.0.1:5000
+  enhanced-mode: redir-host # 模式：redir-host或fake-ip
+     # fake-ip-range: 198.18.0.1/16 # 如果你不知道这个参数的作用，请勿修改
+  nameserver:
+     - 223.5.5.5 # 阿里DNS
+     - 180.76.76.76 # 百度DNS
+     - 119.29.29.29 # 腾讯DNS
+     - 117.50.10.10 # ONE DNS纯净版
+     - 114.114.114.114 # 114DNS
+  fallback:
+     - 8.8.8.8 # 谷歌DNS
+     - 1.1.1.1 # Cloudflare DNS
+     - tls://dns.rubyfish.cn:853
+     - tls://1.0.0.1:853
+     - tls://dns.google:853
+     #- https://dns.rubyfish.cn/dns-query
+     #- https://cloudflare-dns.com/dns-query
+     #- https://dns.google/dns-query
