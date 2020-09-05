@@ -1,6 +1,5 @@
 DOMAIN-SUFFIX,awesome-hd.me
 DOMAIN-SUFFIX,broadcasthe.net
-DOMAIN-SUFFIX,gazellegames.net
 DOMAIN-SUFFIX,classix-unlimited.co.uk
 DOMAIN-SUFFIX,empornium.me
 DOMAIN-SUFFIX,hdchina.org
@@ -70,7 +69,6 @@ DOMAIN-SUFFIX,btschool.org
 DOMAIN,pt.btschool.club
 DOMAIN,www.skyey2.com
 DOMAIN,daydream.dmhy.best
-DOMAIN-SUFFIX,pt.hdbd.us
 DOMAIN-SUFFIX,filelist.io
 DOMAIN-SUFFIX,torrentleech.org
 DOMAIN-SUFFIX,filelist.io
@@ -94,4 +92,8 @@ DOMAIN-KEYWORD,xunlei
 DOMAIN-KEYWORD,yunpan
 DOMAIN-KEYWORD,Thunder
 DOMAIN-KEYWORD,XLLiveUD
-DOMAIN-SUFFIX,jpopsuki.eu
+DOMAIN-KEYWORD,jpopsuki
+DOMAIN-KEYWORD,gazellegames
+DOMAIN-KEYWORD,hdbd
+DOMAIN-KEYWORD,tracker
+DOMAIN-KEYWORD,announce
