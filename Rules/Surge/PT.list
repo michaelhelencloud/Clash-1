@@ -75,9 +75,6 @@ DOMAIN-SUFFIX,filelist.io
 DOMAIN-SUFFIX,flro.org
 DOMAIN,tracker-public.tjupt.org
 DOMAIN,tracker-campus.tjupt.org
-DOMAIN-SUFFIX,gazellegames.net
-DOMAIN-SUFFIX,hdbd.us
-DOMAIN-SUFFIX,jpopsuki.eu
 PROCESS-NAME,aria2c
 PROCESS-NAME,fdm
 PROCESS-NAME,Folx
@@ -97,3 +94,6 @@ DOMAIN-KEYWORD,Thunder
 DOMAIN-KEYWORD,XLLiveUD
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,gazellegames
+DOMAIN-KEYWORD,hdbd
+DOMAIN-KEYWORD,jpopsuki
