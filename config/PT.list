@@ -79,6 +79,8 @@ DOMAIN-SUFFIX,filelist.io
 DOMAIN-SUFFIX,torrentleech.org
 DOMAIN-SUFFIX,filelist.io
 DOMAIN-SUFFIX,flro.org
+DOMAIN,tracker-public.tjupt.org
+DOMAIN,tracker-campus.tjupt.org
 PROCESS-NAME,aria2c
 PROCESS-NAME,fdm
 PROCESS-NAME,Folx
