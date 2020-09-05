@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,icetorrent.org
 DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,ncore.cc
 DOMAIN-SUFFIX,open.cd
-DOMAIN-SUFFIX,b
+DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,passthepopcorn.me
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,redacted.ch
@@ -63,13 +63,17 @@ DOMAIN-SUFFIX,technology
 DOMAIN-SUFFIX,empirehost.me
 DOMAIN-SUFFIX,stackoverflow.tech
 DOMAIN-SUFFIX,joyhd.net
+DOMAIN,ipv4.joyhd.net
 DOMAIN-SUFFIX,soulvoice.club
+DOMAIN,pt.soulvoice.club
 DOMAIN-SUFFIX,upxin.net
 DOMAIN-SUFFIX,et8.org
 DOMAIN-SUFFIX,leniter.org
+DOMAIN-SUFFIX,btschool.org
 DOMAIN,pt.btschool.club
 DOMAIN,www.skyey2.com
 DOMAIN,daydream.dmhy.best
+DOMAIN-SUFFIX,hdbd.us
 DOMAIN,pt.hdbd.us
 DOMAIN-SUFFIX,filelist.io
 DOMAIN-SUFFIX,torrentleech.org
