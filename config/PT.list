@@ -1,4 +1,4 @@
-# PT站点 
+
 DOMAIN-SUFFIX,awesome-hd.me
 DOMAIN-SUFFIX,broadcasthe.net
 DOMAIN-SUFFIX,gazellegames.net
@@ -9,11 +9,12 @@ DOMAIN-SUFFIX,icetorrent.org
 DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,ncore.cc
 DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,b
 DOMAIN-SUFFIX,passthepopcorn.me
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,discfan.net
-DOMAIN-SUFFIX,hddolby.com
+DOMAIN,www.hddolby.com
 DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,hdzone.me
 DOMAIN-SUFFIX,hitpt.com
@@ -21,9 +22,9 @@ DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,ptsbao.club
 DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,hdarea.co
+DOMAIN,www.hdarea.co
 DOMAIN-SUFFIX,beitai.pt
-DOMAIN-SUFFIX,oshen.win
+DOMAIN,www.oshen.win
 DOMAIN-SUFFIX,bwtorrents.tv
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,nanyangpt.com
@@ -56,7 +57,6 @@ DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,eastgame.org
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,leaguehd.com
-DOMAIN-SUFFIX,skyey.win
 DOMAIN-SUFFIX,haidan.video
 DOMAIN-SUFFIX,moecat.best
 DOMAIN-SUFFIX,technology
@@ -67,13 +67,12 @@ DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,upxin.net
 DOMAIN-SUFFIX,et8.org
 DOMAIN-SUFFIX,leniter.org
-DOMAIN-SUFFIX,btschool.club
-DOMAIN-SUFFIX,skyey2.com
-DOMAIN-SUFFIX,skyey.com
+DOMAIN,pt.btschool.club
+DOMAIN,www.skyey2.com
+DOMAIN,daydream.dmhy.best
+DOMAIN,pt.hdbd.us
 DOMAIN-SUFFIX,filelist.io
 DOMAIN-SUFFIX,torrentleech.org
-
-# 运行进程
 PROCESS-NAME,aria2c
 PROCESS-NAME,fdm
 PROCESS-NAME,Folx
