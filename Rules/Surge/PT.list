@@ -25,12 +25,10 @@ DOMAIN-SUFFIX,dragonhd.xyz
 DOMAIN-SUFFIX,hdstreet.club
 DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,cinemaz.to
-DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,hdupt.com
 DOMAIN-SUFFIX,eastgame.org
 DOMAIN-SUFFIX,leaguehd.com
 DOMAIN-SUFFIX,haidan.video
-DOMAIN-SUFFIX,moecat.best
 DOMAIN-SUFFIX,technology.im
 DOMAIN-SUFFIX,empirehost.me
 DOMAIN-SUFFIX,stackoverflow.tech
@@ -53,6 +51,10 @@ DOMAIN-SUFFIX,flro.org
 DOMAIN-SUFFIX,hdbd.us
 DOMAIN,tracker-public.tjupt.org
 DOMAIN,tracker-campus.tjupt.org
-DOMAIN-KEYWORD,tracker
-DOMAIN-KEYWORD,announce
+DOMAIN-SUFFIX,uhdbits.org
+DOMAIN-SUFFIX,oppaiti.me
+DOMAIN-SUFFIX,bwtorrents.tv
+DOMAIN-SUFFIX,hd-torrents.org
+DOMAIN-SUFFIX,hdpost.top
+DOMAIN-SUFFIX,iptorrents.com
 PROCESS-NAME,qBittorrent
